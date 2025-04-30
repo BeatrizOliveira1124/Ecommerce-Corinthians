@@ -1,0 +1,9 @@
+.content{
+    margin-top: 50px;
+    max-width: 1300px;
+	padding-left: 25px;
+	padding-right: 25px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
